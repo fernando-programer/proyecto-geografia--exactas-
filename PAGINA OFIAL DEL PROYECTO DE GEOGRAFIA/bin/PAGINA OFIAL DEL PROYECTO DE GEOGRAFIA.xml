@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PAGINAOFIALDELPROYECTODEGEOGRAFIA
+</name>
+</assembly>
+<members>
+<member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.head">
+	<summary>
+Control head.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.ContentPlaceHolder2">
+	<summary>
+Control ContentPlaceHolder2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.ContentPlaceHolder3">
+	<summary>
+Control ContentPlaceHolder3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.ContentPlaceHolder1">
+	<summary>
+Control ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.ContentPlaceHolder4">
+	<summary>
+Control ContentPlaceHolder4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.ContentPlaceHolder5">
+	<summary>
+Control ContentPlaceHolder5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal.ContentPlaceHolder6">
+	<summary>
+Control ContentPlaceHolder6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.Register.RegisterUser">
+	<summary>
+Control RegisterUser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.Register.RegisterUserWizardStep">
+	<summary>
+Control RegisterUserWizardStep.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.ChangePassword.ChangeUserPassword">
+	<summary>
+Control ChangeUserPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.Application">
+	<summary>
+ Devuelve información sobre la aplicación actual.
+ </summary>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="P:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension.WebServices">
+	<summary>
+ Proporciona acceso a los servicios Web agregados a este proyecto.
+ </summary>
+</member><member name="T:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.Login.LoginUser">
+	<summary>
+Control LoginUser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>

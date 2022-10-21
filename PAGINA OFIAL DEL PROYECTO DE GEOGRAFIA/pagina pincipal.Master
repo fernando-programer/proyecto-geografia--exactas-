@@ -1,0 +1,121 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="pagina pincipal.master.vb" Inherits="PAGINA_OFIAL_DEL_PROYECTO_DE_GEOGRAFIA.pagina_pincipal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Styles/ESTILOGEOGRAFIA.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+   <header>
+<section>
+<a href= "http://campuscobaev.veracruz.gob.mx/moodle2020/course/view.php?id=321" id="logo" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GEOGRAFIA 502  AREA EXACTAS </a>
+
+<label for="toggle-1" class="toggle-menu"><ul><li></li> <li></li> <li></li></ul></label>
+<input type="checkbox" id="toggle-1">
+
+<nav>
+   <ul>
+    <li><a href="inicio.aspx" "><i class="icon-home"></i>INICIO  </a></li>
+    <li><a href="tipos.aspx"><i class="icon-user"></i> TIPOS DE EROSION DEL SUELO  </a></li>
+    <li><a href="eru.aspx"><i class="icon-thumbs-up-alt"></i>TIPOS DE ROCA E ADAPTACION </a></li>
+    <li><a href="video.aspx"><i class="icon-gear"></i>VIDEOS DE APOYO</a></li>
+    <li><a href="cova.aspx"><i class="icon-picture"></i>COBAEV 16 </a></li>
+    </ul>
+    </nav>
+  </header>
+
+
+        <section id="INICIO " class="content">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+    <table class="style1">
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+    </table>
+    <p>
+    </p>
+    </asp:ContentPlaceHolder>
+</section>
+
+<section id="TIPOS DE ADAPTACION" class="content">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server"></asp:ContentPlaceHolder>
+</section>
+
+<section id="ERUPSIONES DEL SUELO" class="content">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+</section>
+
+<section id="VIDEOS DE APOYO" class="content">
+<link href="video.aspx" />
+<asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server"></asp:ContentPlaceHolder>
+</section>
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder5" runat="server"></asp:ContentPlaceHolder>
+<section id="COBAEV 16" class="content">
+<asp:ContentPlaceHolder ID="ContentPlaceHolder6" runat="server"></asp:ContentPlaceHolder>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer>
+<ul class="social">
+<li><a href="https://www.facebook.com/profile.php?id=100016622105589" target="_blank"><i class="icon-facebook">Siquime en facebook como fernando</i></a></li>
+<li><a href="https://www.instagram.com/gio_vani24/" target="_blank"><i class="icon-instagram"> Sigueme como Noel </i></a></li>
+</ul>
+</footer>
+
+
+</body>
+</html>
